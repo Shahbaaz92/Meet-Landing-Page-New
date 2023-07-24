@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Shahbaaz92/Meet-Landing-Page-New)
-- Live Site URL: [Add live site URL here](https://meet-landing-page-shahbaaz.netlify.app/)
+- Solution URL: [https://github.com/Shahbaaz92/Meet-Landing-Page-New](https://github.com/Shahbaaz92/Meet-Landing-Page-New)
+- Live Site URL: [https://meet-landing-page-shahbaaz.netlify.app/](https://meet-landing-page-shahbaaz.netlify.app/)
 
 ## My process
 
