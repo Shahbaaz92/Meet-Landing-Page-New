@@ -10,6 +10,9 @@ body {
   margin: 0 auto;
   font-family: "Red Hat Display", sans-serif;
 }
+body::-webkit-scrollbar {
+  display: none;
+}
 .container {
   display: flex;
   flex-direction: column;
